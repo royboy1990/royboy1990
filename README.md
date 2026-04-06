@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Roy 👋
 
-<!--
-**royboy1990/royboy1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Senior Full-Stack Developer** with over 12 years of experience turning complex business problems into scalable, production-ready software. I specialize in building MVPs, SaaS platforms, and internal business tools that focus on outcome over bloat.
 
-Here are some ideas to get you started:
+### 🛠 My Core Stack
+- **Frontend:** Angular, Next.js, TypeScript, RxJS, Tailwind CSS
+- **Backend:** Node.js, REST APIs, WebSockets
+- **Infrastructure:** AWS, Firebase, MongoDB, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+- **For Founders:** I build launch-ready MVPs in weeks, not months.
+- **For Businesses:** I fix messy codebases and scale internal tools for performance.
+- **Philosophy:** Boring tech ships faster. I prioritize clean architecture and maintainable systems.
+
+### 🔗 Connect with Me
+- **Portfolio:** [roylevy.dev](https://roylevy.dev)
+- **Fiverr:** [Verified Pro Profile](https://www.fiverr.com/roylevy1990)
+
+---
+*“Clients don't want code; they want outcomes. I deliver the latter.”*
