@@ -5,7 +5,7 @@ I’m a **Senior Full-Stack Developer** with over 12 years of experience turning
 ### 🛠 My Core Stack
 - **Frontend:** Angular, Next.js, TypeScript, RxJS, Tailwind CSS
 - **Backend:** Node.js, REST APIs, WebSockets
-- **Infrastructure:** AWS, Firebase, MongoDB, PostgreSQL
+- **Infrastructure:** AWS, Firebase, Render, MongoDB, PostgreSQL
 
 ### 🚀 What I Do
 - **For Founders:** I build launch-ready MVPs in weeks, not months.
