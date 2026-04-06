@@ -14,7 +14,7 @@ I’m a **Senior Full-Stack Developer** with over 12 years of experience turning
 
 ### 🔗 Connect with Me
 - **Portfolio:** [roylevy.dev](https://roylevy.dev)
-- **Fiverr:** [Verified Pro Profile](https://www.fiverr.com/roylevy1990)
+- **Fiverr:** [Verified Pro Profile]([https://www.fiverr.com/roylevy1990](https://www.fiverr.com/s/yv0dKd0))
 
 ---
 *“Clients don't want code; they want outcomes. I deliver the latter.”*
