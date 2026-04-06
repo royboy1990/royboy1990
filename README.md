@@ -1,6 +1,6 @@
 # Hi, I’m Roy 👋
 
-I’m a **Senior Full-Stack Engieneer (B.Sc.)** with over 12 years of experience turning complex business problems into scalable, production-ready software. I specialize in building MVPs, SaaS platforms, and internal business tools that focus on outcome over bloat.
+I’m a **Senior Full-Stack Engineer (B.Sc.)** with over 12 years of experience turning complex business problems into scalable, production-ready software. I specialize in building MVPs, SaaS platforms, and internal business tools that focus on outcome over bloat.
 
 ### 🛠 My Core Stack
 - **Frontend:** Angular, Next.js, TypeScript, RxJS, Tailwind CSS
